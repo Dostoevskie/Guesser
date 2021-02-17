@@ -1,0 +1,7 @@
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 2 - Guesser\bin\Debug\guesser.exe.config
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 2 - Guesser\bin\Debug\guesser.exe
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 2 - Guesser\bin\Debug\guesser.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 2 - Guesser\obj\Debug\guesser.csprojAssemblyReference.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 2 - Guesser\obj\Debug\guesser.csproj.CoreCompileInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 2 - Guesser\obj\Debug\guesser.exe
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 2 - Guesser\obj\Debug\guesser.pdb
